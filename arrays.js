@@ -40,7 +40,7 @@ function removeElementFromBeginningOfArray(array) {
 }
 
 function removeElementFromEndOfArray(array) {
-  array.slice(array.length);
+  array.slice(2);
   return array;
 }
 
